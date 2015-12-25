@@ -2,7 +2,7 @@
 
 The goal of this project is to analyze the relationship between volume of tweets and stock market activity of 96 firms.
 
-"Data" folder consists of a total of 1,223,906 Tweets, from May 21, 2012 through September 18, 2013. It is uploaded as zip file.
+"Data" folder consists of a total of 1,223,906 tuples from May 21, 2012 through September 18, 2013. It is uploaded as zip file.
 
 The document in the folder "ProblemStatement" gives description of data and questions to be answered using the data.
 
